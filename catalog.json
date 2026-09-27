@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "plugins": [
+    {
+      "id": "daily-note",
+      "repo": "k-ymmt/laperm-daily-note",
+      "name": "Daily Note",
+      "description": "Opens today's Note in a folder of your choice, creating it from a template.",
+      "author": "k-ymmt"
+    }
+  ]
+}
